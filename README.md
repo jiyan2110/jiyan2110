@@ -1,18 +1,18 @@
-# Hi, I'm Jiyan Bhatt 👋
-
 <p align="center">
-  <img src="./github_banner.png" width="100%" alt="GitHub Banner"/>
+  <img src="./github_banner.png" alt="GitHub Banner" width="100%"/>
 </p>
 
-<h3 align="center">
-Software Engineer • AI • Backend • Data Engineering
-</h3>
+<h1 align="center">Hi 👋 I'm Jiyan Bhatt</h1>
+
+<h3 align="center">Software Engineer • AI • Backend • Data Engineering</h3>
 
 <p align="center">
-Building intelligent systems that bridge AI research and production software engineering.
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI+Systems.;FastAPI+%7C+Data+Engineering+%7C+RAG.;Open+Source+Builder.;Always+Learning.+Always+Shipping." alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  Building intelligent systems that bridge AI research and production software engineering.
+</p>
 
 ## 🚀 Currently Building
 
@@ -32,25 +32,26 @@ Production-scale AI knowledge platform built with a Bronze/Silver/Gold Lakehouse
 
 ## 💻 Tech Stack
 
-### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,docker,redis,aws,git,github,linux,vscode,tensorflow,pytorch" />
+</p>
 
-Python • C++ • SQL • JavaScript • HTML/CSS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sqlite,html,css,js,react,nodejs" />
+</p>
 
-### Backend
+---
 
-FastAPI • SQLAlchemy • PostgreSQL • Redis • REST APIs
+## 📊 GitHub Analytics
 
-### AI / ML
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jiyan2110?style=for-the-badge&logo=github&color=7C3AED"/>
+  <img src="https://img.shields.io/github/stars/jiyan2110?affiliations=OWNER&style=for-the-badge&logo=github&color=06B6D4"/>
+</p>
 
-OpenAI • LangChain • Qdrant • Transformers • TensorFlow • Scikit-learn • Pandas
-
-### Data Engineering
-
-DuckDB • Parquet • Airflow • MLflow • Docker
-
-### Tools
-
-Git • GitHub Actions • Linux • VS Code
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jiyan2110&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
