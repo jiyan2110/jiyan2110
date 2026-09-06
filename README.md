@@ -33,7 +33,7 @@ Production-scale AI knowledge platform built with a Bronze/Silver/Gold Lakehouse
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,docker,redis,aws,git,github,linux,vscode,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,flask,postgres,docker,git,github,githubactions,vscode,tensorflow,linux,prometheus,grafana" />
 </p>
 
 <p align="center">
