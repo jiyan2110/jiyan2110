@@ -1,7 +1,7 @@
 # Hi, I'm Jiyan Bhatt 👋
 
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="GitHub Banner"/>
+  <img src="./github_banner.png" width="100%" alt="GitHub Banner"/>
 </p>
 
 <h3 align="center">
